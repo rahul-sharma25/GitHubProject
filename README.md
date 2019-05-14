@@ -1,2 +1,2 @@
 # GitHubProject
-Test the GitHub Integration with Jenkins
+Test the GitHub Integration with Jenkins.
